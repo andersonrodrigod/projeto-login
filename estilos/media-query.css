@@ -10,7 +10,7 @@
         top: 20%;
         left: 5%;
         width: 90vw;
-        height: 60vh;
+        height: 280px;
     }
     #imagem {
         float: left;
@@ -34,6 +34,7 @@
         top: 10%;
         left: 14%;
         width: 990px;
+        height: 350px;
     }    
 
     #imagem {
